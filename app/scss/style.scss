@@ -87,8 +87,8 @@ body {
 
         &-center {
             position: absolute;
-            top: 27%;
-            right: 32%;
+            top: 30%;
+            right: 31%;
             display: flex;
             align-content: center;
             align-items: center;
@@ -401,7 +401,7 @@ body {
 
     &__info {
         display: block;
-        margin: 520px;
+        margin-left: 520px;
     }
 
     &__title {
@@ -432,7 +432,7 @@ body {
 }
 
 .socials__links {
-    padding-bottom: 530px;
+    padding-bottom: 803px;
     font-weight: 700;
     display: flex;
     flex-direction: column;

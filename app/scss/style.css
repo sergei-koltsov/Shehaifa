@@ -165,8 +165,8 @@ body {
 
 .header__content-center {
   position: absolute;
-  top: 27%;
-  right: 32%;
+  top: 30%;
+  right: 31%;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -514,7 +514,7 @@ body {
 
 .contacts__info {
   display: block;
-  margin: 520px;
+  margin-left: 520px;
 }
 
 .contacts__title {
@@ -549,7 +549,7 @@ body {
 }
 
 .socials__links {
-  padding-bottom: 530px;
+  padding-bottom: 803px;
   font-weight: 700;
   display: -webkit-box;
   display: -ms-flexbox;
